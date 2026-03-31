@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a curious and driven developer, always looking to learn deeply and work consistently toward my goals.
+My name is Guilherme. I'm a curious and driven developer, always looking to learn deeply and work consistently toward my goals.
 
 ---
 
